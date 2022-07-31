@@ -1,4 +1,4 @@
-# churrascometro
+# Churrascometro
 ---Sistema para calcular a quantidade de comida e bebida necessária para um churrasco---
 
 📋 --Sobre o Projeto--
