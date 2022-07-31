@@ -6,10 +6,10 @@
 Sistema para calcular a quantidade de comida e bebida necessária para um churrasco,
 com base nas informações seguintes:
 
-- Carne: 400gr por pessoa + de 6horas - 650gr
-- Cerveja: 1200ml por Pessoa + 6 horas - 2000ml
-- Refrigerante: 1000ml por pessoa + 6 horas 1500ml
- -Crianças: valem por 0,5.
+- Carne: 400gr por adulto, passando de 6 horas - 650gr por adulto
+- Cerveja: 1200ml por adulto, passando de 6 horas - 2000ml por adulto
+- Refrigerante: 1000ml por adulto, passando de 6 horas - 1500ml por adulto
+ -Crianças: valem por meio (0,5) adulto.
 
 💻 --Tecnologias utilizadas--
 
